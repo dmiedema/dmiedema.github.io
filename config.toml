@@ -2,6 +2,6 @@ baseurl = "https://dmiedema.github.io/"
 languageCode = "en-us"
 title = "My Damn Blogish Thing"
 
-permalinks:
-  post: /:year/:month/:title/
+# permalinks:
+#  post: /:year/:month/:title/
 
