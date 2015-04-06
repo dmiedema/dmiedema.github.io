@@ -1,6 +1,6 @@
 baseurl = "https://dmiedema.github.io/"
 languageCode = "en-us"
-title = "My Damn Blog-ish Thing"
+title = "My Damn Blogish Thing"
 
 permalinks:
   post: /:year/:month/:title/
