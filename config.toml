@@ -1,3 +1,7 @@
-baseurl = "http://yourSiteHere/"
+baseurl = "https://dmiedema.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "My Damn Blog-ish Thing"
+
+permalinks:
+  post: /:year/:month/:title/
+
